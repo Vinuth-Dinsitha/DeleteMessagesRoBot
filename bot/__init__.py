@@ -79,7 +79,7 @@ GIT_REPO_LINK = "https://github.com/SpEcHiDe/DeleteMessagesRoBot"
 START_MESSAGE = get_config("START_MESSAGE", (
     "I'm a bot that can delete <s>all</s> your channel or supergroup messages. "
     "\n\n"
-    f"Made by Vinuth"
+    f"Made by @Vinuth_BOTs"
 ))
 START_COMMAND = get_config("START_COMMAND", "start")
 DEL_ALL_COMMAND = get_config("DEL_ALL_COMMAND", "delall")
